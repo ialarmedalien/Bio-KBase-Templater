@@ -4,11 +4,10 @@ Module for rendering templates using [Template Toolkit](http://www.template-tool
 
 ## Installation
 
-Copy `Templater.pm` into `lib/Bio/KBase` of your app
-Copy the contents of `t` into the `test` directory
-Copy the `templates` directory into your root directory
-
-Edit your `cpanfile` to include the module prerequisites:
+* Copy `Templater.pm` into `lib/Bio/KBase` of your app
+* Copy the contents of `t` into the `test` directory
+* Copy the `templates` directory into your root directory
+* Edit your `cpanfile` to include the module prerequisites:
 
 ```
 requires 'Cpanel::JSON::XS', '>= 4.19';
