@@ -1,4 +1,4 @@
-# kb_templater_pl
+# Bio::KBase::Templater
 
 Module for rendering templates using [Template Toolkit](http://www.template-toolkit.org). This is intended for use with KBase apps (hence the module naming) but can be used anywhere.
 
